@@ -1,5 +1,5 @@
 ## 👋 About me
-#### Data Science, Dongduk Women's University (2023.3 ~)
+#### 동덕여자대학교 데이터사이언스전공 (2023.3 ~ 재학)
 
 ## :computer: Skill
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
